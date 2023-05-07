@@ -1,0 +1,13 @@
+.nav {
+  display: flex;
+  gap: 20px;
+  justify-content: center;
+  padding: 10px;
+  background-color: #c6b7b7;
+}
+
+.nav li {
+  text-decoration: none;
+  font-size: 20px;
+  list-style: none;
+}

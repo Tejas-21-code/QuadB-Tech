@@ -1,0 +1,33 @@
+.container-element {
+  height: 88vh;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+
+  width: 800px;
+  margin: auto;
+  margin-top: 50px;
+  justify-content: flex-start;
+}
+
+.box {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 80px;
+}
+
+.box input {
+  padding: 10px;
+  border-radius: 10px;
+}
+
+.btn button {
+  margin-top: 20px;
+  text-align: flex-start;
+  width: 150px;
+  padding: 15px;
+  border-radius: 10px;
+  background-color: rgb(197, 248, 227);
+  border-color: grey;
+}

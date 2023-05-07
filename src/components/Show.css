@@ -1,0 +1,30 @@
+.show {
+  width: 700px;
+  border-radius: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 100px;
+  padding: 20px;
+  margin: 10px auto;
+  background-color: #fff3e2;
+}
+
+img {
+  border-radius: 20px;
+  height: 220px;
+  width: auto;
+}
+.details {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.show button {
+  width: 150px;
+  padding: 15px;
+  border-radius: 10px;
+  background-color: rgb(197, 248, 227);
+  border-color: grey;
+}
